@@ -4,7 +4,7 @@
   <remote fetch="https://git.codelinaro.org/clo/la" name="clo" />
   <remote fetch="https://github.com/microsoft/" name="duo2" revision="surfaceduo2/11/2023.501.541" />
 
-  <remote fetch="https://github.com/Xelef2000/" name="myforks" revision="surfaceduo2/11/2023.501.541 />
+  <remote fetch="https://github.com/Xelef2000/" name="myforks" revision="surfaceduo2/11/2023.501.541" />
 
   <project remote="duo2" name="surface-duo-oss-kernel.build" path="device/qcom/kernelscripts" />
   <project remote="duo2" name="surface-duo-oss-device.build" path="device_build" />
